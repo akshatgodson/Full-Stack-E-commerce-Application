@@ -59,4 +59,4 @@ TPP                  |  Responsive UI & Admin View
 <br/>
 Thanks,
 
-Anurag.
+Akshat.
